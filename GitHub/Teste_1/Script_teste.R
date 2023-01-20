@@ -3,6 +3,7 @@ usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
 usethis::use_github()
 usethis::use_readme_md()
 
+
 # SITES GUIA DO SCRIPT
 # https://www.r-graph-gallery.com/index.html
 # http://www.sthda.com/english/wiki/ggplot2-barplots-quick-start-guide-r-software-and-data-visualization
